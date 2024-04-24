@@ -1,5 +1,5 @@
 # Prueba ☺
-Este es un ejercicio de afianzamiento para el parcial de la materia de análisis de sistemas, de la facultad de ingeniería de sistemas de Corhuila.
+Este es un ejercicio de afianzamiento para el parcial de la materia de análisis de sistemas, de la facultad de ingeniería de sistemas-Corhuila.
 
 # Tema el cual se le debe aplicar MR, Normalización.
 ## Ejemplo 
