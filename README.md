@@ -50,7 +50,7 @@ En este sentido, se procede a normarlizar de la siguiente manera.
 |      3          |  2500    |  21-04-2024 |    2     |
 
 >Ver 
-![Modelo relacional del ejercicio](out/MR/Modelo/Modelo.png)
+![Modelo relacional del ejercicio](MR/Modelo.png)
 
 > Script de la base de datos
 ```sql
